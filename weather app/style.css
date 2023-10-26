@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(21, 20, 20);
+}
+
+.card{
+    background: rgb(145, 93, 93);
+color: azure;
+width: 10%;
+text-align: center;
+justify-content: center;
+margin: 100px auto 0 ;
+padding: 20px ;
+}
